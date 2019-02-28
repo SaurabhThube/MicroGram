@@ -48,9 +48,6 @@ pymongo==3.4.0
 pyOpenSSL==0.15.1
 pyparsing==2.1.9
 pyserial==3.0.1
-pysqlite==1.0.1
-pytesseract==0.1.6
-python-apt==1.1.0b1+ubuntu0.16.4.1
 python-dateutil==2.5.3
 python-debian==0.1.27
 python-dotenv==0.10.1
