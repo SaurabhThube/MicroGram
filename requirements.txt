@@ -49,16 +49,12 @@ pyOpenSSL==0.15.1
 pyparsing==2.1.9
 pyserial==3.0.1
 python-dateutil==2.5.3
-python-debian==0.1.27
 python-dotenv==0.10.1
 python-editor==1.0.3
 requests==2.18.4
-rpm-python==4.12.0.1
 SQLAlchemy==1.2.10
 SQLAlchemy-Wrapper==1.9.1
-toolz==0.8.0
 Werkzeug==0.11.11
 Wrapper==1.1.0b1
 WTForms==2.2.1
-xlrd==1.1.0
 
