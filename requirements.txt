@@ -34,7 +34,7 @@ Mako==1.0.7
 MarkupSafe==0.23
 matplotlib==1.5.3
 multiset==2.0.0
-mysql-connector-python==2.0.5
+mysql-connector-python==8.0.5
 networkx==1.11
 nltk==3.2.1
 numpy==1.11.1
